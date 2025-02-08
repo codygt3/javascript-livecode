@@ -9,3 +9,4 @@ Let's get familiar with using JavaScript!
 3. View your console's logs.
 4. Make two variables.
 5. Use an if statement.
+6. Make an alert that says "GOOD MORNING!".
